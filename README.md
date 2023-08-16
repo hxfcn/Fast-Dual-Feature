@@ -1,2 +1,4 @@
-# Fast-Dual-Feature
-A fast dual-feature extraction technique that is also robust for VPR tasks.
+# Fast Dual-Feature Extraction based on Tightly Coupled Lightweight Network for Visual Place Recognition
+Coming soon...
+
+
